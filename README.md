@@ -1,6 +1,6 @@
 # Project Laboratory
 
-Welcome to version 2.0 of the Project Laboratory.
+Welcome to version 2.0 of the Project Laboratory. Here is Lisa's first edit.
 
 We are going to work out the process for designing your digital research project in this session. Good—or shall we say effective—projects begin with a plan. It's true those plans may change over the life cycle of the project. Your questions may change. Your funding may change. Even the shape your "final" research project takes may change. 
 
