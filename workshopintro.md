@@ -23,7 +23,7 @@ While an effective project plan may detail the goals, need, and plan for a proje
 
 In the end, creating a project plan is the least expensive and most impactful thing you can do to ensure its success.
 
-### But what if I already started with a plan? 
+### But what if I already have a plan? 
 Great! This workshop can be useful to you, too. Even the best and most thoughtfully designed project plans need care and feeding. You may be thinking about a side project for something you are already working on. Perhaps you have a project that you started without a plan, but now you've decided it needs to go in a new direction.  
 
 
