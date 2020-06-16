@@ -38,7 +38,8 @@ There are no prerequisites for this workshop.
 
 All projects involve planning at some stage. Sometimes these plans turn into publications about a project. Other times you may see them as sample grant proposals. Here are some places you could look to find samples of digital project proposals. 
 
-- The Graduate Center's Provost's Digital Innovation Grants site features  proposal narratives from successfully funded projects by doctoral students. Look under "Funded Projects" for a list of the years 
+- The Graduate Center's [Provost's Digital Innovation Grants site](http://cuny.is/digitalgrants) features  proposal narratives from successfully funded projects by doctoral students. Look under "Funded Projects" for a list of digital project descriptions, narratives, and white papers for each academic year. 
+- The NEH Office of Digital Humanities posts sample application narratives with its call for applications. You can find these at the bottom of the grant program announcements, for example, on the [Digital Humanities Advancement Grant Program](https://www.neh.gov/grants/odh/digital-humanities-advancement-grants) page. 
 
 ### Ethical Considerations
 
