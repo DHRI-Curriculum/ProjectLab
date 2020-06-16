@@ -2,9 +2,10 @@
 
 ## About the Project Laboratory
 
-Current Author: Lisa Marie Rhody
+### Acknowledgements
+Current Author(s): Lisa Marie Rhody
 
-## History 
+### History 
 The Project Laboratory workshop was first developed in January 2016 for the CUNY Digital Research Bootcamp, which later became the GC Digital Research Institute. It was significantly revised in June 2018 and included in the first NEH-funded Digital Humanities Research Institute, hosted by GC Digital Initiatives at The Graduate Center, CUNY. The workshop builds on earlier collaborations among Sheila Brennan, Sharon Leon, and Lisa Rhody. 
 
 ## How to use this workshop
@@ -14,7 +15,7 @@ Needs text here.
 Need text here. 
 
 ## Contact Us
-
+Need text here. 
 
 -----
 
