@@ -14,6 +14,7 @@ In this workshop, you will learn the following skills:
 - To locate partners, collaborators, and audiences
 - To develop a work plan 
 - To communicate your plan
+- To evaluate your progress
 - To describe how the work and data will be managed and sustained
 - To draft an initial project proposal 
 
