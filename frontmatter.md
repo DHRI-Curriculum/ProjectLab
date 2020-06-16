@@ -2,8 +2,6 @@
 
 ## Abstract
 
-During this session, you will learn how to design, to plan, and to propose a digital research project. Effective digital projects begin with three critical components: a purpose, a need, and a plan. Once you have those three things in place, you can better assess what resources you will need to bring the project to fruition, to articulate the steps that will be required to bring your project from an abstract idea into reality, and to keep the project on track toward its goal along the way. True, even the best plans may change over the life cycle of the project, but if your project is clearly and resonably articulated, changes along the way will be much easier to accommodate. Your questions may change. Your funding may change. Even the shape your "final" research project takes may change, but a good plan that is well described early on can help the project survive those changes. 
-
 The Project Lab is designed to help you develop a  **reasonable, informed, and purposeful plan** for your digital project that can be used with modifications for multiple purposes: to propose a seminar, capstone, or dissertation project; to submit a grant proposal or funding request; to communicate clearly with potential partners or collaborators; to guide project management; or to build out a publication about your work.
 
 ## Learning Objectives
