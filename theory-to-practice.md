@@ -3,7 +3,7 @@
 ## Suggested Further Readings
 
 - [CUNY Digital Humanities Resource Guide List of Sample Projects](https://wiki.commons.gc.cuny.edu/Sample_Projects/)
-- Morgan, Paige. “How to Get a Digital Humanities Project off the Ground.” HASTAC, 6 June 2014. www.hastac.org, https://www.hastac.org/blogs/paigecm/2014/06/06/how-get-digital-humanities-project-ground.
+- Morgan, Paige. “How to Get a Digital Humanities Project off the Ground.” HASTAC, 6 June 2014. https://www.hastac.org/blogs/paigecm/2014/06/06/how-get-digital-humanities-project-ground.
 - Grumbach, Elizabeth. ["Designing a DH Project."](https://repository.asu.edu/items/50759#embed) Institute for Humanities Research Faculty Development Workshop Series, 26 September 2018. https://repository.asu.edu/items/50759
 - Whitacre, Andrew. Designing Digital Humanities. cmsw.mit.edu, https://cmsw.mit.edu/podcast-johanna-drucker-design/. Accessed 16 June 2020.
 
