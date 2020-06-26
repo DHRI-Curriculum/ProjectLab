@@ -20,7 +20,7 @@ If we wanted to style the class, we would create CSS:
 }
 ```
 
-# Lesson 2
+# You don't have to keep "Lesson 2" in the title, but keep it short. This is a bad example
 
 When you are ready to switch to the next lesson, just use another level one heading (`#`) like I just did here! That will automatically become a new paginated "page" on the website.
 
