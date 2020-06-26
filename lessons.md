@@ -30,7 +30,7 @@ When you are ready to switch to the next lesson, just use another level one head
 
 We can add more headers, just like that. (Make sure they are of the correct level. If the previous one is level one—`#`—then make this one level two: `##`. If you need to go deeper, level three headers is the last depth that we can do, using `###` before your header.)
 
-We can use **bolding** or _italicizing_. It would really be good if you use `**` to surround bolded text and *_* to suround italicized text. (Then I can use regular expressions to make sure your texts are interpreted correctly!)
+We can use **bolding** or _italicizing_. It would really be good if you use `**` to surround bolded text and `_` to surround italicized text. (Then I can use regular expressions to make sure your texts are interpreted correctly!)
 
 - We can use bulletpoint lists, of course!
 - Add as many bulletpoints as you want
