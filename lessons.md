@@ -61,3 +61,7 @@ Where you put a smaller challenge that our learners can try on their own and tha
 Under this header, you would add the `solution` for the challenge above. Or whatever text explains the "challenge."
 
 In both the solution and challenge headers, you can use any of the features of the rest of the file—multiple paragraphs, [links](), `inline codes` or images, or whatever you can imagine!
+
+### Level 3 Header!
+
+You can even add a submenu in the challenge or solution section if you want, like the menu above here.
