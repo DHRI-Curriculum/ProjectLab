@@ -4,8 +4,8 @@
 
 Before beginning the workshop, how confident did you feel writing a digital project proposal? 
 
-- I've written many proposals before, so this was nothing new to me. 
-- I have some experience writing digital project proposals, but felt I could improve.
+- I've written many proposals in years past, so this was nothing new to me. 
+- I have some experience writing digital project grant proposals, but felt I could improve.
 - I've written proposals for other kinds of academic projects, but I have not written a digital project proposal before. 
 - I have heard about digital projects before, but I am new to writing academic proposals. 
 - I didn't know what a digital project proposal was and have no experience writing one. 
@@ -16,6 +16,7 @@ After completing the Project Lab, I would say that:
 - I modestly increased my confidence writing digital project proposals. 
 - I discovered new ways to go about designing and planning for a digital project.
 - I significantly increased my capacity to write a digital project proposal. 
+- I think there should be one more alternative here.
 
 An effective work plan contains the following: 
 - The budget, the timeline, and the deliverables 
