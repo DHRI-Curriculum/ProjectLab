@@ -12,6 +12,11 @@ Digital Research Institute (DRI) Curriculum by Graduate Center Digital Initiativ
 
 - Author: Lisa Marie Rhody
 
+## Suggested next workshops
+
+- git
+- command-line
+
 ## Information about feedback
 
 [Or should this be a curriculum-wide meta-file?]
