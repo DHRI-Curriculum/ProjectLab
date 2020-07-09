@@ -4,6 +4,8 @@
 
 The Project Lab is designed to help you develop a  **reasonable, informed, and purposeful plan** for your digital project that can be used with modifications for multiple purposes: to propose a seminar, capstone, or dissertation project; to submit a grant proposal or funding request; to communicate clearly with potential partners or collaborators; to guide project management; or to build out a publication about your work.
 
+*This workshop is based on a WebWise 2013 workshop developed by Sheila Brennan, Sharon Leon, and Lisa Marie Rhody.*
+
 ## Learning Objectives
 
 In this workshop, you will learn the following skills:
@@ -62,11 +64,5 @@ To complete the workshop, you will need the following:
 
 - Current author: Lisa Marie Rhody
 - Original author: Lisa Marie Rhody
-- Contributing authors: none
-- Reviewers: 
-
-*This workshop is based on a WebWise 2013 workshop developed by Sheila Brennan, Sharon Leon, and Lisa Marie Rhody.*
-
-DHRI General Editor: Lisa Marie Rhody
-
-DHRI Managing Editor: Kalle Westerling
+- DHRI General Editor: Lisa Marie Rhody
+- DHRI Managing Editor: Kalle Westerling
