@@ -4,6 +4,10 @@
 
 Most digital projects come to an end at some point, in one way or another. We either simply stop working on them, or we forget about them, or we move on to something else. Few digital projects have an end "form" in the way that we think of a monograph. We rarely think of digital scholarship in its "done" form, but sooner or later even if they're not "finished"—so to speak—at some point, these projects end. 
 
+Here's an example of a context switch:
+
+<!-- context: terminal -->
+
 Done can take many different shapes: 
 
 * it can morph into something new;
