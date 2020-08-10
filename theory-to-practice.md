@@ -1,5 +1,11 @@
 # Theory to Practice
 
+You are done with the Project Lab workshop, congratulations! Now, let's think a bit further about how you can use this workshop in projects that you're currently working on.
+
+### Heading
+
+This is just an example of how you would add a heading in this part of the Theory to Practice section.
+
 ## Suggested Further Readings
 
 - [CUNY Digital Humanities Resource Guide List of Sample Projects](https://wiki.commons.gc.cuny.edu/Sample_Projects/)
