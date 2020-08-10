@@ -126,3 +126,18 @@ Example of a "stakeholder":
 2. Resources/Relationship: 
 
 3. Limitations/Concessions: 
+
+## Evaluation
+
+This is an example of a question. The question itself would go here, and be formulated as a multiple-choice question. It could, of course, also be a yes or no question.
+- This is response number 1
+- This is (correct) response number 2*
+- This is response number 3
+- This is (correct) response number 4*
+
+You can add as many questions as you want. This is the second question for this workshop.
+- This is (correct) response number 1*
+- This is response number 2
+- This is response number 3
+- This is response number 4
+- This is response number 5
