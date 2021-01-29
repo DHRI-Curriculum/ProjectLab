@@ -6,7 +6,7 @@
 Current Author(s): Lisa Marie Rhody
 
 ### History 
-The Project Laboratory workshop was first developed in January 2016 for the CUNY Digital Research Bootcamp, which later became the GC Digital Research Institute. It was significantly revised in June 2018 and included in the first National Endowment for the Humanities-funded Digital Humanities Research Institute, hosted by GC Digital Initiatives at The Graduate Center, CUNY. The workshop builds on earlier collaborations among Sheila Brennan, Sharon Leon, and Lisa Rhody. 
+The Project Laboratory workshop was first developed in January 2016 for the CUNY Digital Research Bootcamp, which later became the GC Digital Research Institute. It was significantly revised in June 2018 and included in the first National Endowment for the Humanities-funded Digital Humanities Research Institute, hosted by GC Digital Initiatives at The Graduate Center, CUNY. The workshop builds on earlier collaborations among Sheila Brennan, Sharon Leon, and Lisa Rhody for the Institute of Museum and Library Services' 2013 conference, WebWise. 
 
 In 2020 the public health crisis caused by COVID-19 made face-to-face workshops impossible. With generous support from the NEH, the Project Laboratory along with other DHRI workshops were revised to accommodate online delivery. 
 
@@ -14,7 +14,7 @@ In 2020 the public health crisis caused by COVID-19 made face-to-face workshops 
 The Project Laboratory can be used either as a stand-alone workshop, or it can be one part of a longer series of workshops drawn from the Digital Humanities Research Institute curriculum. The materials are designed sequentially, and downloadable templates are meant for brainstorming activities that can be completed either in pen-and-paper format or with a text editor. The workshop may be completed all at once or in single-lesson increments; however, the workshop is likely to take longer to complete if done over multiple sessions.
 
 ## How to contribute to this workshop
-Need text here. 
+Suggestions for this workshop can be submitted as a pull request from the [Project Lab GitHub repository](https://github.com/DHRI-Curriculum/project-lab).
 
 ## Contact Us
 Need text here. 
