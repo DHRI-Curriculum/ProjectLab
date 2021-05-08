@@ -309,7 +309,7 @@ Once you know where you need help, start thinking about who you know who might h
 
 ## Find Collaborators:
 
-- Attending conferences and unconferences can be the best way to meet potential collaborators who share similar goals and passions. Informal gatherings are often the best place to chat with folks: “Birds of a Feather” dinners, or affinity group luncheons.
+- Attending conferences and unconferences can be the best way to meet potential collaborators who share similar goals and passions. Informal gatherings are often the best place to chat with folks: "Birds of a Feather" dinners, or affinity group luncheons.
 - Talk to a grant program office about your project; they may have some great recommendations.
 - Circulate some ideas on your professional social networks to scope out potential partners.
 
@@ -326,7 +326,7 @@ Once you know where you need help, start thinking about who you know who might h
 - Be sure both/all parties are in agreement on issues such as:
 	* who takes notes during meetings,
 	* who manages the budget,
-	* who is the “decider” on major project decisions.
+	* who is the "decider" on major project decisions.
 - Determine who the primary contact for inter-institutional communications will be.
 - Designate staff titles and responsibilities, including a description of job responsibilities over the life-cycle of the project.
 
