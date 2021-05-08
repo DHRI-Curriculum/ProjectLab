@@ -16,6 +16,8 @@ The Project Laboratory workshop was first developed in January 2016 for the CUNY
 
 In 2020 the public health crisis caused by COVID-19 made face-to-face workshops impossible. With generous support from the NEH, the Project Laboratory along with other DHRI workshops were revised to accommodate online delivery. 
 
+*This workshop is based on a WebWise 2013 workshop developed by Sheila Brennan, Sharon Leon, and Lisa Marie Rhody.*
+
 # How to use this workshop
 
 The Project Laboratory can be used either as a stand-alone workshop, or it can be one part of a longer series of workshops drawn from the Digital Humanities Research Institute curriculum. The materials are designed sequentially, and downloadable templates are meant for brainstorming activities that can be completed either in pen-and-paper format or with a text editor. The workshop may be completed all at once or in single-lesson increments; however, the workshop is likely to take longer to complete if done over multiple sessions.

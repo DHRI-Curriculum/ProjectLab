@@ -6,8 +6,6 @@ The Project Lab is designed to help you develop a  **reasonable, informed, and p
 
 ## Learning Objectives
 
-In this workshop, you will learn the following skills:
-
 - To identify the purpose of and need for your project
 - To place your project within the context of other existing work
 - To account for the resources already at your disposal and those you may need
@@ -24,7 +22,9 @@ In this workshop, you will learn the following skills:
 
 ## Prerequisites
 
-There are no prerequisites for this workshop.
+- A plain text editor, such as VS Code installed
+- A downloaded copy of the Project Lab Templates
+- An internet connection that you can use to do basic searches on the web, as well as a browser, such as Google Chrome or Mozilla Firefox 
 
 ## Contexts
 
@@ -50,23 +50,11 @@ Throughout this workshop, you will be prompted to consider the ethical dimension
 - Ess, Charles, and Association of Internet Researchers. [Ethical Decision-Making and Internet Research.](http://aoir.org/reports/ethics.pdf) 27 Nov. 2002, http://aoir.org/reports/ethics.pdf.
 - Hoffmann, Anna Lauren. [“Data Violence and How Bad Engineering Choices Can Damage Society.”](https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4) Medium, https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4. Accessed 23 May 2018.
 - Losh, Elizabeth. [“Hacktivism and the Humanities: Programming Protest in the Era of the Digital University](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/f6fe2a59-8937-4446-a2fb-86dc6ba1975b#ch10) Debates in the Digital Humanities, edited by Matthew K. Gold and Lauren Klein, University of Minnesota Press, 2012. dhdebates.gc.cuny.edu, https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/f6fe2a59-8937-4446-a2fb-86dc6ba1975b#ch10.
- 
-
-## Resources 
-To complete the workshop, you will need the following:
-- A plain text editor, such as VS Code installed
-- A downloaded copy of the Project Lab Templates
-- An internet connection that you can use to do basic searches on the web, as well as a browser, such as Google Chrome or Mozilla Firefox 
 
 ## Acknowledgements
 
-- Current author: Lisa Marie Rhody
-- Original author: Lisa Marie Rhody
-- Contributing authors: none
-- Reviewers: 
-
-*This workshop is based on a WebWise 2013 workshop developed by Sheila Brennan, Sharon Leon, and Lisa Marie Rhody.*
-
-DHRI General Editor: Lisa Marie Rhody
-
-DHRI Managing Editor: Kalle Westerling
+- Current author: [Lisa Rhody](https://github.com/lmrhody)
+- Current editor: [Lisa Rhody](https://github.com/lmrhody)
+- Current editor: [Kalle Westerling](https://github.com/kallewesterling)
+- Past contributing author: Sheila Brennan
+- Past contributing author: Sharon Leon
