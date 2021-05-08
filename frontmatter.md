@@ -39,7 +39,6 @@ The Project Lab is designed to help you develop a  **reasonable, informed, and p
 
 ### Ethical Considerations
 
-- Throughout this workshop, you will be prompted to consider the ethical dimensions of your work as it relates to the technologies, funding, labor, and data that the project encompasses. Here are a few preliminary readings to get you started thinking about what to consider as you design your project. This list is not meant to be exhaustive, but suggestive. Some readings will be more applicable to the type of project you are working on than others.
 - Keralis, Spencer D. C., and Pamela Andrews. ["Labor."](https://digitalpedagogy.mla.hcommons.org/keywords/labor/) Digital Pedagogy in the Humanities: Concepts Models, and Experiments, edited by Rebecca Frost Davis et al., Modern Language Association. digitalpedagogy.mla.hcommons.org, https://digitalpedagogy.mla.hcommons.org/keywords/labor/. Accessed 16 June 2020.
 - Ess, Charles, and Association of Internet Researchers. [Ethical Decision-Making and Internet Research.](http://aoir.org/reports/ethics.pdf) 27 Nov. 2002, http://aoir.org/reports/ethics.pdf.
 - Hoffmann, Anna Lauren. ["Data Violence and How Bad Engineering Choices Can Damage Society."](https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4) Medium, https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4. Accessed 23 May 2018.
