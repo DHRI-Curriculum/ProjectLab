@@ -121,6 +121,7 @@ Successful project proposals demonstrate knowledge of the ecosystem of existing 
 Below are **suggestions** for finding similar projects and initiatives in and outside of your field:
 
 1. Federal grant agencies maintain repositories with white papers from previously funded grant projects:
+
 	- Institute of Museum and Library Services
 	- National Endowment for the Humanities Funded Projects Query Form
 	- National Endowment for the Arts (NEA) Recent Grants
@@ -128,6 +129,7 @@ Below are **suggestions** for finding similar projects and initiatives in and ou
 	- National Institutes of Health
 
 2. Search and browse through literature in the field and resources for digital tools and innovations. Some examples of places to look include:
+
 	- [IMLS UpNext](https://www.imls.gov/news-events/upnext-blog)
 	- [D-Lib Magazine](http://www.dlib.org)
 	- [The Signal: Digital Preservation](http://blogs.loc.gov/digitalpreservation/)
@@ -146,6 +148,7 @@ Below are **suggestions** for finding similar projects and initiatives in and ou
 	- [AAAS Trellis](https://www.trelliscience.com)
 
 3. Other places to check:
+
 	- Search preprint repositories, academic repositories, and data warehouses for similar datasets
 	- Check conference programs and gray literature from your field and related materials.
 	- Discuss your project idea with your colleagues inside and outside of your own department at your institution, at conferences, and even with peers in different fields.
