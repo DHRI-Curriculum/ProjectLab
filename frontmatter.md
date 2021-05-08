@@ -6,15 +6,15 @@ The Project Lab is designed to help you develop a  **reasonable, informed, and p
 
 ## Learning Objectives
 
-- To identify the purpose of and need for your project
-- To place your project within the context of other existing work
-- To account for the resources already at your disposal and those you may need
-- To locate partners, collaborators, and audiences
-- To develop a work plan 
-- To communicate your plan
-- To evaluate your progress
-- To describe how the work and data will be managed and sustained
-- To draft an initial project proposal 
+- Identify the purpose of and need for your project
+- Place your project within the context of other existing work
+- Account for the resources already at your disposal and those you may need
+- Locate partners, collaborators, and audiences
+- Develop a work plan
+- Communicate your plan
+- Evaluate your progress
+- Describe how the work and data will be managed and sustained
+- Draft an initial project proposal
 
 ## Estimated time
 
@@ -22,13 +22,10 @@ The Project Lab is designed to help you develop a  **reasonable, informed, and p
 
 ## Prerequisites
 
-- [A plain text editor](https://github.com/DHRI-Curriculum/insights/blob/v2.0/pages/choosing-a-text-editor.md), such as VS Code installed
+- [Visual Studio Code](https://github.com/DHRI-Curriculum/install/blob/v2.0/guides/visual-studio-code.md) (recommended) You can use any plain text editor but for our purposes, Visual Studio Code ("VS Code") will be used.
+- [Download the workshop templates](<!-- insert link here -->) (required) The templates will be used throughout the challenges in the workshop.
 
 ## Contexts
-
-### Datasets
-
-- A downloaded copy of the Project Lab Templates
 
 ### Pre-reading suggestions
 
@@ -36,8 +33,6 @@ The Project Lab is designed to help you develop a  **reasonable, informed, and p
 - Spiro, Lisa. ["Getting Started in Digital Humanities Journal of Digital Humanities."](http://journalofdigitalhumanities.org/1-1/getting-started-in-digital-humanities-by-lisa-spiro/) Journal of Digital Humanities, vol. 1, no. 1, Winter 2011, http://journalofdigitalhumanities.org/1-1/getting-started-in-digital-humanities-by-lisa-spiro/.
 
 ### Projects that use these skills
-
-All projects involve planning at some stage. Sometimes these plans turn into publications about a project. Other times you may see them as sample grant proposals. Here are some places you could look to find samples of digital project proposals. 
 
 - The Graduate Center's site for the [Provost's Digital Innovation Grants](http://cuny.is/digitalgrants) features  proposal narratives from successfully funded projects by doctoral students. Look under "Funded Projects" for a list of digital project descriptions, narratives, and white papers for each academic year. 
 - The NEH Office of Digital Humanities posts sample application narratives with its call for applications. You can find these at the bottom of the grant program announcements, for example, on the [Digital Humanities Advancement Grant Program](https://www.neh.gov/grants/odh/digital-humanities-advancement-grants) page. 
