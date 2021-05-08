@@ -251,6 +251,7 @@ In the next step, you can split up your list into which technology resources you
 Like with the previous resource assessments, with human resources, you will want to start with an inventory: Consider the various roles that might be necessary for the project. Who will fill those roles?
 
 Some examples of common roles/areas where help is needed in digital humanities projects include:
+
 - design
 - maintenance and support
 - coding/programming
@@ -276,6 +277,7 @@ Next, it is time to turn to your to your **remote context** to see what human re
 # Resources: Institution
 
 As a final section of our resource inventory, we will turn to your institution to make a "resource scan" to see what resources are available to you:
+
 - What services or support might be available through the GC Digital Initiatives, the Teaching & Learning Center, the New Media Lab, or the Futures Initiative? If you are not at the GC, does your insitution have a digital research support network?
 - Have you joined the CUNY Academic Commons?
 - Have you applied for internal funding? Where would you look?
@@ -311,7 +313,7 @@ Librarians are your allies in developing a sound data management and sustainabil
 
 ## Challenge
 
-Very quickly, try to think of all the different types of data your project will involve.
+Try to think of all the different types of data your project will involve.
 
 - Where will you store your data?
 - Is your software open source?
@@ -323,9 +325,10 @@ Very quickly, try to think of all the different types of data your project will 
 
 After brainstorming your project ideas and assessing your available resources, it is time to scope out potential partners to help fill in gaps and formalize relationships.
 
-please keep in mind that each project is different. This outline offers suggestions and lessons learned from successful and less successful collaborations. while each project is unique in the way responsibilities are shared, perhaps one universal attribute of successful partnerships is mutual respect. The most successful collaborations are characterized by a demonstrated respect for each partners's time, work, space, staff, or policies in words and actions.
+Please keep in mind that each project is different. This outline offers suggestions and lessons learned from successful and less successful collaborations. while each project is unique in the way responsibilities are shared, perhaps one universal attribute of successful partnerships is mutual respect. The most successful collaborations are characterized by a demonstrated respect for each partners's time, work, space, staff, or policies in words and actions.
 
 Once you know where you need help, start thinking about who you know who might have those skills, areas of expertise, resources, and interest.
+
 - Partnerships should be selected on the basis of specific strengths.
 - If you don't know someone who fits the bill, can someone you know introduce you to someone you would like to know? What are some ways of finding someone with skills you don't have if you don't know anyone with those skills?
 
@@ -460,9 +463,9 @@ A brief explanation that combines your environmental scan and your research goal
 
 Rough outline and project calendar that includes project design and evaluation, and possibly a communications plan, depending on the grant with major deliverables (bullet-pointed list of phases and duration):
 
-- Phase 1 (month/year - month/year):
-- Phase 2 (month/year - month/year):
-- Phase 3 (month/year - month/year):
+- Phase 1 (month/year–month/year):
+- Phase 2 (month/year–month/year):
+- Phase 3 (month/year–month/year):
 
 ### Project Resources: Personnel and Management
 
